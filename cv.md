@@ -18,20 +18,20 @@ My career path doesn't look like simple exponential growth but I consider that a
   * GIT
   * Photoshop
  
- ### Code examples:
+### Code examples:
   * [My portfolio Draft](https://kristykov.github.io/My-portfolio/Portfolio/)
  
- ### Experience:
+### Experience:
  Web sites using technologies HTML5, CSS3, JavaScript techniques
   
  
- ### Education:
+### Education:
  
   * 2018 IT school Myfreedom - Front-End precource
   * 2019 Udemy - The Complete JavaScript Course 2019: Build Real Projects! 
   * 2020 Udemy - Build Responsive Real World Websites with HTML5 and CSS3 
 
- ### English:
+### English:
 My English level is around C1. I can talk fluently on various topics, furthermore I have several years experience working with technical documentation in English.  
 
 
